@@ -1,4 +1,4 @@
-# kickstart.nvim
+# vscode.kickstart.nvim
 
 ## Introduction
 
